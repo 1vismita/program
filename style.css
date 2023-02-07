@@ -2,3 +2,17 @@ body{
     text-align: center;
     background-color: yellow;
 }
+a:hover {
+    text-decoration: none;
+    color: rgba(166, 14, 172, 0.066);
+}
+a:visited {
+    color: rgb(16, 197, 64);
+}
+a:link {
+    color:rgb(146, 24, 89);
+}
+html {
+    scroll-behavior: smooth;
+
+}
